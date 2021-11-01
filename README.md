@@ -60,4 +60,4 @@ Attempt #3:
 
 ## Summary
 
-Although we did not reach a 75% accuracy before or after optimization, we did come close given the large dataset and all of the variables.  I think this classification problem can possibly be solved by removing some additional variables or adding more data to possibly increase accuracy.  
+Although we did not reach a 75% accuracy before or after optimization, we did come close given the large dataset and all of the variables.  All attempts had an accuracy of about 73%.  I think this classification problem can possibly be solved by removing some additional variables or adding more data to possibly increase accuracy.  
